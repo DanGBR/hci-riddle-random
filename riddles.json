@@ -1,0 +1,276 @@
+{
+  "Wordplay": {
+    "low": [
+      {
+        "question": "What has words but never speaks?",
+        "answer": "A book"
+      },
+      {
+        "question": "What kind of room has no doors or windows?",
+        "answer": "A mushroom"
+      },
+      {
+        "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+        "answer": "The letter M"
+      },
+      {
+        "question": "What has a head, a tail, but no body?",
+        "answer": "A coin"
+      },
+      {
+        "question": "What has legs but cannot walk?",
+        "answer": "A chair/table"
+      }
+    ],
+    "medium": [
+      {
+        "question": "I am a word. If you pronounce me right, it’s wrong. If you pronounce me wrong, it’s right. What am I?",
+        "answer": "Wrong"
+      },
+      {
+        "question": "What five-letter word becomes shorter when you add two letters to it?",
+        "answer": "Short"
+      },
+      {
+        "question": "Forward I am heavy, but backward I am not. What am I?",
+        "answer": "Ton"
+      },
+      {
+        "question": "What word is spelled incorrectly in every dictionary?",
+        "answer": "Incorrectly"
+      },
+      {
+        "question": "What begins with an E, ends with an E, but only contains one letter?",
+        "answer": "An envelope"
+      }
+    ],
+    "high": [
+      {
+        "question": "The more you take, the more you leave behind. What am I?",
+        "answer": "Footsteps"
+      },
+      {
+        "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
+        "answer": "An echo"
+      },
+      {
+        "question": "You measure my life in hours and I serve you by expiring. I’m quick when I’m thin and slow when I’m fat. The wind is my enemy.",
+        "answer": "A candle"
+      },
+      {
+        "question": "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",
+        "answer": "A map"
+      },
+      {
+        "question": "What can run but never walks, has a bed but never sleeps, has a mouth but never talks?",
+        "answer": "A river"
+      }
+    ]
+  },
+  "Logic": {
+    "low": [
+      {
+        "question": "Some months have 31 days, others have 30 days. How many have 28 days?",
+        "answer": "All of them"
+      },
+      {
+        "question": "If you have me, you want to share me. If you share me, you don’t have me. What am I?",
+        "answer": "A secret"
+      },
+      {
+        "question": "What can be broken but never held?",
+        "answer": "A promise"
+      },
+      {
+        "question": "What is full of holes but still holds water?",
+        "answer": "A sponge"
+      },
+      {
+        "question": "What goes up but never comes down?",
+        "answer": "Your age"
+      }
+    ],
+    "medium": [
+      {
+        "question": "A man is looking at a picture of someone. His friend asks, 'Who is it you are looking at?' The man replies, 'Brothers and sisters, I have none. But that man's father is my father's son.' Who is in the picture?",
+        "answer": "His son"
+      },
+      {
+        "question": "I have two coins that add up to 30 cents. One of them is not a nickel. What are the coins?",
+        "answer": "A quarter and a nickel (only one is not a nickel)"
+      },
+      {
+        "question": "You see a boat filled with people. It hasn’t sunk, but when you look again you don’t see a single person on the boat. Why?",
+        "answer": "All the people were married"
+      },
+      {
+        "question": "A cowboy rode into town on Friday. He stayed in town for three days and rode out on Friday. How is that possible?",
+        "answer": "His horse’s name is Friday"
+      },
+      {
+        "question": "Which is heavier: a ton of bricks or a ton of feathers?",
+        "answer": "Neither, they both weigh a ton"
+      }
+    ],
+    "high": [
+      {
+        "question": "A man was found murdered on Sunday. The wife said she was sleeping, the cook was cooking, the gardener was picking vegetables, the maid was getting the mail, and the butler was cleaning. The police arrested the murderer immediately. Who did it?",
+        "answer": "The maid—there's no mail on Sunday"
+      },
+      {
+        "question": "You are in a room with 3 light switches, each corresponding to one of three light bulbs in the next room. You can only enter the room once. How can you figure out which switch corresponds to which bulb?",
+        "answer": "Turn on the first switch and leave it on for a while, then turn it off and turn on the second. Enter the room: the bulb that is on is the second switch, the warm one is the first, and the cold one is the third"
+      },
+      {
+        "question": "Two fathers and two sons go fishing. They each catch one fish, yet only three fish are caught. How?",
+        "answer": "They are grandfather, father, and son"
+      },
+      {
+        "question": "You have 8 balls. 7 weigh the same, but one is slightly heavier. Using a balance scale only twice, how can you find the heavier ball?",
+        "answer": "Weigh 3 vs 3; if equal, it's in the 2 not weighed. Weigh 1 vs 1 from the suspected pair"
+      },
+      {
+        "question": "A man builds a house with all four sides facing south. A bear walks by the house. What color is the bear?",
+        "answer": "White, the house is at the North Pole so the bear is a polar bear"
+      }
+    ]
+  }
+  ,
+  "Lateral Thinking": {
+    "low": [
+      {
+        "question": "A man walks into a bar and asks for a glass of water. The bartender pulls out a gun and points it at him. The man says 'Thank you' and leaves. Why?",
+        "answer": "He had hiccups and the bartender scared them away"
+      },
+      {
+        "question": "A man pushes his car to a hotel and tells the owner he’s bankrupt. Why?",
+        "answer": "He’s playing Monopoly"
+      },
+      {
+        "question": "What can you hold in your left hand but not in your right?",
+        "answer": "Your right elbow"
+      },
+      {
+        "question": "A rooster lays an egg on the roof of a barn. Which way does it roll?",
+        "answer": "It doesn’t—roosters don’t lay eggs"
+      },
+      {
+        "question": "Why can’t a man living in New York be buried in California?",
+        "answer": "Because he’s still alive"
+      }
+    ],
+    "medium": [
+      {
+        "question": "A woman shoots her husband, then holds him underwater for five minutes. Finally, she hangs him. But five minutes later they both go out and enjoy a dinner together. How?",
+        "answer": "She took a photo of him, developed it, and hung it up to dry"
+      },
+      {
+        "question": "A man is found hanging in a room four feet off the ground. There is nothing else in the room except a puddle of water. How did he do it?",
+        "answer": "He stood on a block of ice which later melted"
+      },
+      {
+        "question": "A man died of old age on his 25th birthday. How is this possible?",
+        "answer": "He was born on February 29th"
+      },
+      {
+        "question": "A girl fell off a 20-foot ladder but wasn’t hurt. How?",
+        "answer": "She fell from the bottom rung"
+      },
+      {
+        "question": "What has one eye but can’t see?",
+        "answer": "A needle"
+      }
+    ],
+    "high": [
+      {
+        "question": "A man is lying dead in a desert next to a straw. What happened?",
+        "answer": "He was in a hot air balloon with others. To lose weight, they drew straws. He lost and was thrown out"
+      },
+      {
+        "question": "A man is found dead in a locked room hanging from the ceiling with no furniture or objects around. The floor is wet. What happened?",
+        "answer": "He stood on a block of ice that melted"
+      },
+      {
+        "question": "A man enters a cabin and dies. How?",
+        "answer": "It was the cockpit of an airplane that crashed"
+      },
+      {
+        "question": "A man is wearing all black. Black shoes, socks, trousers, coat, gloves, and ski mask. He is walking down a black street with all the street lamps off. A black car is coming towards him with its lights off but somehow manages to stop in time. How?",
+        "answer": "It’s daytime"
+      },
+      {
+        "question": "A woman leaves home, turns left three times, and returns home to find two men wearing masks. Who are they?",
+        "answer": "The catcher and umpire in a baseball game"
+      }
+    ]
+  }
+  ,
+  "Math": {
+    "low": [
+      {
+        "question": "What is always in front of you but can’t be seen?",
+        "answer": "The future"
+      },
+      {
+        "question": "If two’s company, and three’s a crowd, what are four and five?",
+        "answer": "Nine"
+      },
+      {
+        "question": "What three numbers give the same result when multiplied and added together?",
+        "answer": "1, 2, and 3 (1+2+3 = 6 and 1×2×3 = 6)"
+      },
+      {
+        "question": "How many sides does a circle have?",
+        "answer": "Two – inside and outside"
+      },
+      {
+        "question": "What number do you get when you multiply all of the numbers on a telephone’s number pad?",
+        "answer": "0 (because one of them is 0)"
+      }
+    ],
+    "medium": [
+      {
+        "question": "A bat and a ball cost $1.10 in total. The bat costs $1 more than the ball. How much is the ball?",
+        "answer": "5 cents"
+      },
+      {
+        "question": "I am a three-digit number. My tens digit is five more than my ones digit. My hundreds digit is eight less than my tens digit. What number am I?",
+        "answer": "194"
+      },
+      {
+        "question": "If you multiply me by any other number, the answer will always remain the same. What number am I?",
+        "answer": "0"
+      },
+      {
+        "question": "A farmer has 17 sheep. All but 9 run away. How many are left?",
+        "answer": "9"
+      },
+      {
+        "question": "What 3-digit number has the property that the sum of the cube of its digits is equal to the number itself?",
+        "answer": "153 (1³ + 5³ + 3³ = 153)"
+      }
+    ],
+    "high": [
+      {
+        "question": "Using only addition, how can you add eight 8s to get the number 1000?",
+        "answer": "888 + 88 + 8 + 8 + 8 = 1000"
+      },
+      {
+        "question": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
+        "answer": "5 minutes"
+      },
+      {
+        "question": "A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are out and he is completely in the dark. How many socks must he take out to make 100 percent certain that he took 2 black socks out?",
+        "answer": "39 socks (worst case he picks all 21 blue + 17 red before getting to black)"
+      },
+      {
+        "question": "I am a number less than 100. My digits add up to 9. I am a square number. What number am I?",
+        "answer": "81 (8 + 1 = 9 and 9×9 = 81)"
+      },
+      {
+        "question": "There is a basket with 10 apples. You take away 3. How many do you have?",
+        "answer": "3 (you took them)"
+      }
+    ]
+  }
+}
