@@ -104,3 +104,23 @@ button:hover {
 input[type=range] {
     accent-color: #a0522d;
 }
+
+/* Two-Step Feedback Pages */
+#feedback-correct-page,
+#feedback-ratings-page {
+    background-color: #fffdf5;
+    border: 1px solid #ddd1b8;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+
+#feedback-correct-page h3,
+#feedback-ratings-page h3 {
+    margin-top: 0;
+}
+
+#feedback-correct-page fieldset,
+#feedback-ratings-page fieldset {
+    margin-bottom: 1rem;
+}
